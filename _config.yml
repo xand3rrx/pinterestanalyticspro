@@ -1,0 +1,8 @@
+title: Pinterest Analytics Pro
+description: Advanced analytics and insights for Pinterest power users
+theme: jekyll-theme-minimal
+show_downloads: false
+google_analytics: # your analytics ID (optional)
+github:
+  is_project_page: true
+  repository_url: "https://github.com/yourusername/pinterest-analytics-pro"
