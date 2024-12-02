@@ -1,6 +1,6 @@
 # Privacy Policy for Pinterest Analytics Pro
 
-Last updated: [Current Date]
+Last updated: 12/2/2024
 
 ## 1. Introduction
 Welcome to Pinterest Analytics Pro ("we", "our", or "us"). This privacy policy explains how we collect, use, and protect your information when you use our Chrome extension.
@@ -51,7 +51,7 @@ Our extension is not intended for children under 13 years of age.
 We may update this privacy policy periodically. Changes will be posted within the extension.
 
 ## 10. Contact Information
-For privacy concerns, contact us at: [Your Email Address]
+For privacy concerns, contact us at: xand3rr@skiff.com
 
 ## 11. Compliance
 This extension complies with:
