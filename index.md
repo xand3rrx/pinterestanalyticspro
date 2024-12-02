@@ -22,13 +22,13 @@ We take your privacy seriously. Our extension:
 ## Support
 
 Need help? Have questions? Contact us at:
-- Email: [your-email@domain.com]
-- Twitter: [@YourHandle]
-- GitHub Issues: [Report a Bug](https://github.com/yourusername/pinterest-analytics-pro/issues)
+- Email: xand3rr@skiff.com
+- Twitter: @thehedgestudio
+- GitHub Issues: [Report a Bug](https://github.com/xand3rr/pinterest-analytics-pro/issues)
 
 ## Installation
 
-1. Visit the [Chrome Web Store](link-to-your-extension)
+1. Visit the [Chrome Web Store](#) - SOON
 2. Click "Add to Chrome"
 3. Follow the authentication process
 4. Start analyzing your Pinterest performance!
