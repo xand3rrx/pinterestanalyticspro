@@ -24,7 +24,7 @@ We take your privacy seriously. Our extension:
 Need help? Have questions? Contact us at:
 - Email: xand3rr@skiff.com
 - Twitter: @thehedgestudio
-- GitHub Issues: [Report a Bug](https://github.com/xand3rr/pinterest-analytics-pro/issues)
+- GitHub Issues: [Report a Bug](https://github.com/xand3rr/pinterestanalyticspro/issues)
 
 ## Installation
 
